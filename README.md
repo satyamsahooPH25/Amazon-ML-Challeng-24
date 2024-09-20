@@ -1,7 +1,9 @@
 # Amazon Product Attribute Extraction System
 ![Architecture](https://github.com/user-attachments/assets/92e82681-f450-4cd8-b5b3-7405a4a72fef)
 
-This repository contains a robust system for extracting and predicting key product attributes such as weight, volume, length, voltage, wattage, etc., from product images using Optical Character Recognition (OCR) based on given query. The system efficiently predicts the correct units and numerical values associated with these attributes, providing a scalable solution for automated product data extraction.
+### AIR-200 
+
+This repository contains a robust system (built from absolute scratch without the use of any pre-trained model) for extracting and predicting key product attributes such as weight, volume, length, voltage, wattage, etc., from product images using Optical Character Recognition (OCR) based on given query. The system efficiently predicts the correct units and numerical values associated with these attributes, providing a scalable solution for automated product data extraction.
 
 ## Problem Statement
 
